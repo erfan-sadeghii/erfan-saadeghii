@@ -100,7 +100,5 @@ My goal is not only to make websites look good, but to **communicate the brand**
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/resume/Resume-FA-preview.png" alt="Persian Resume Preview" width="850" />
-</p>
+
 
