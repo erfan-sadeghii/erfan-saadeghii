@@ -88,3 +88,19 @@ My goal is not only to make websites look good, but to **communicate the brand**
   https://mobinandishe.ir/
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=12&color=0:0B0014,50:2A004F,100:B517FF&section=footer)
+
+
+---
+
+## 📄 Download Persian Resume (PDF)
+
+<p align="center">
+  <a href="https://github.com/erfan-sadeghii/erfan-sadeghii/raw/main/assets/resume/Resume-FA.pdf?download=1">
+    <img src="https://img.shields.io/badge/Download%20Resume%20(FA)%20PDF-0B0014?style=for-the-badge&labelColor=2A004F&color=B517FF" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/resume/Resume-FA-preview.png" alt="Persian Resume Preview" width="850" />
+</p>
+
