@@ -16,7 +16,7 @@
   <a href="https://t.me/erfan_sadeghei">
     <img src="https://img.shields.io/badge/Telegram-@erfan__sadeghei-0B0014?style=for-the-badge&logo=telegram&logoColor=B517FF" />
   </a>
-  <a href="https://github.com/erfan-saadeghii">
+  <a href="https://github.com/erfan-sadeghii">
     <img src="https://img.shields.io/badge/GitHub-erfan--saadeghii-0B0014?style=for-the-badge&logo=github&logoColor=B517FF" />
   </a>
 </p>
